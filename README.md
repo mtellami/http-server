@@ -72,7 +72,7 @@ HTTP POST method is most often utilized to create new resources. On successful c
 
 #### DELETE
 
-HTTP DELETE is stright forward. It deletes a resource specified in URI. On successful deletion, it returns HTTP response status code 204 (No Content).
+HTTP DELETE removes the resource identified by the request URI. On successful deletion, it returns HTTP response status code 204 (No Content).
 
 Read more about HTTP methods <a href="https://www.rfc-editor.org/rfc/rfc9110.html">RFC9110#9</a>.1
 
